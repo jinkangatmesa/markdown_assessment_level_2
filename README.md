@@ -3,7 +3,7 @@ JIN KANG - MARKDOWN ASSESSMENT LEVEL 2
  # Grand Opening: The Byte Bites Food Truck
  ![coffee](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5z1_JG3fJQWyW6sGBWJFi8XntPCYuyA2Pd7eA5_2rHyVNvTu468cmS0Y&s=10)
 
- Welcome to **Byte Bites**, the first food truck run entirely by student coders! We serve fresh food in the morning and write code at night.
+ Welcome to **Byte Bites**, the first food truck run *entirely* by student coders! We serve fresh food in the morning and write code at night.
 
  ---
 
@@ -44,10 +44,24 @@ if (total > 10) {
 
 
 > # What Customers Are Saying
-"Best chopped cheese in East Harlem, and the **free cookie** deal is *genius*!"
+>"Best chopped cheese in East Harlem, and the **free cookie** deal is *genius*!"
 
 --- 
 
 ## Find Us Online
 
-Follow our daily location on [Instagram](https://www.instagram.com/?hl=en)
+Follow our daily location on [Instagram](https://www.instagram.com/?hl=en) or read our reviews on [Yelp](https://www.yelp.com/nyc)
+
+Want to build an app like ours? Start learning here:
+
+- [freeCodeCamp](https://www.freecodecamp.org/
+)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+---
+
+```
+git push origin main
+
+```
+-the command we run every time we add a new to the menu!
